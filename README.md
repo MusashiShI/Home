@@ -83,7 +83,8 @@ Alarm Security Layer System (ASLS)
 
 The Alarm Security Layer System (ASLS) is designed to provide a layered approach to security, protecting the monitored environment against a wide range of threats. 
 Each layer complements the others, forming an effective strategy to prevent, detect, and respond to security incidents. 
-However, it is essential to remember that security is an ongoing and dynamic process, and continuous maintenance and enhancement of the ASLS are crucial to addressing emerging threats.
+However, it is essential to remember that security is an ongoing and dynamic process, and continuous maintenance and enhancement of the ASLS are crucial to addressing emerging threats:
+
 ● Server Monitoring Layer
 ● Traffic Anomaly Detection Layer
 ● Log Analysis Layer
@@ -100,18 +101,20 @@ However, it is essential to remember that security is an ongoing and dynamic pro
 Alarm Security Layer System URL Check (ASLS-U) 
 
 The Alarm Security Layer System URL Check (ASLS-U) is a simplified version of the Alarm Security Layer System (ASLS) that focuses on providing security measures specifically for testing the availability of URLs and preventing false alarms. It is designed to ensure that the URL monitoring system is reliable and free from false positive alerts.
-The ASLS-U is designed to be a lightweight and efficient system to monitor URLs and prevent false alarms effectively. By implementing these layers, the system can provide reliable URL monitoring and minimize the occurrence of false positive alerts, ensuring that genuine outages are promptly addressed.
-● HTTP Status Code Check Layer  
-● Response Time Check Layer 
-● Status Tracking Layer 
-● Error Handling Layer ❓
-● Alerting and Notification Layer 
+The ASLS-U is designed to be a lightweight and efficient system to monitor URLs and prevent false alarms effectively. By implementing these layers, the system can provide reliable URL monitoring and minimize the occurrence of false positive alerts, ensuring that genuine outages are promptly addressed:
+
+● HTTP Status Code Check Layer
+● Response Time Check Layer
+● Status Tracking Layer
+● Error Handling Layer 
+● Alerting and Notification Layer
 
 
 
 Alarm Security Layer System Server our Systems (ASLS-S)
 
-The ASLS-S is designed to be highly adaptive and constantly evolving to address emerging security challenges effectively. By integrating these layers, the ASLS-S ensures proactive security monitoring and rapid response to potential threats, enhancing overall security posture and safeguarding critical assets from cyber risks.
+The ASLS-S is designed to be highly adaptive and constantly evolving to address emerging security challenges effectively. By integrating these layers, the ASLS-S ensures proactive security monitoring and rapid response to potential threats, enhancing overall security posture and safeguarding critical assets from cyber risks:
+
 ◉ Server Monitoring Layer
 ◉ Traffic Anomaly Detection Layer
 ◉ Log Analysis Layer
