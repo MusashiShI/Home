@@ -4,8 +4,10 @@ Hello! Welcome to my GitHub profile. I'm José, a passionate individual deeply f
 At the age of 20, I'm on a constant journey of learning and self-improvement, always striving to expand my knowledge and skills.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Age: 20                 
+Age: 20 
+                
 Languages: Fluent in Portuguese, with a basic understanding of English, French, and Spanish.
+
 Learning: Currently, I'm on a journey to master the Japanese language.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -17,21 +19,31 @@ I excel in system administration for both Linux and Windows environments. My goa
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Programming 👨‍💻
+
 ShellScript: Proficient in ShellScript, I use it to automate and streamline various tasks.
 Python: I have a strong command of Python for scripting and application development.
+
 Ruby: Currently in the process of learning Ruby to expand my programming skills.
+
 YAML: I'm familiar with YAML, which is often used for configuration files.
+
 Quantum Programming: I'm eager to delve into the world of quantum programming and explore its fascinating potential.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tools and Technologies 💻
 I'm well-versed in various tools and technologies that play a crucial role in system administration and development, including:
+
 Zabbix: A powerful monitoring solution that I use to ensure the optimal performance of systems.
+
 Ansible: I leverage Ansible for automation and configuration management tasks.
+
 Squid Proxy: Proficient in SquidProxy for managing internet access efficiently.
+
 Mitmproxy: I use Mitmproxy for intercepting and inspecting network traffic.
+
 CrowdSec: I rely on CrowdSec for enhancing security through behavior-based monitoring.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
