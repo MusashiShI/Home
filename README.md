@@ -26,7 +26,15 @@ Programming 👨‍💻
 ShellScript: Proficient in ShellScript, I use it to automate and streamline various tasks.
 Python: I have a strong command of Python for scripting and application development.
 
-Ruby: Currently in the process of learning Ruby to expand my programming skills.
+C / C++: Currently in the process of learning C/C++ to expand my programming skills.
+
+HTML: I am currently in the process of learning to become proficient in HTML for web development.
+
+CSS: I am currently in the process of learning to become proficient in CSS for styling web pages.
+
+JavaScript: I am currently in the process of learning to become proficient in JavaScript for adding interactivity to web pages.
+
+React: I am currently in the process of learning to become proficient in React for building dynamic user interfaces.
 
 YAML: I'm familiar with YAML, which is often used for configuration files.
 
