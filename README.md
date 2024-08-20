@@ -60,26 +60,26 @@ CrowdSec: I rely on CrowdSec for enhancing security through behavior-based monit
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-AlertGuard: The Perfect Monitoring System 🚨
+Vision: The Perfect Monitoring System 🚨
 
-One of my proudest achievements is the creation of "AlertGuard," a sophisticated monitoring system that aims for perfection in detecting and preventing false alarms. 
-AlertGuard is an advanced monitoring and alarm system designed to provide comprehensive insights into system performance and ensure proactive management of critical events. 
+One of my proudest achievements is the creation of "Vision" a sophisticated monitoring system that aims for perfection in detecting and preventing false alarms. 
+Vision is an advanced monitoring and alarm system designed to provide comprehensive insights into system performance and ensure proactive management of critical events. 
 With its robust features and user-friendly interface, AlertGuard empowers system administrators to efficiently monitor key metrics, detect anomalies, and promptly respond to potential issues.
 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
 
-    𝙍𝙚𝙖𝙡-𝙩𝙞𝙢𝙚 𝙈𝙤𝙣𝙞𝙩𝙤𝙧𝙞𝙣𝙜: AlertGuard offers real-time monitoring of crucial system parameters, including load average, process quantity, and resource utilization. 
+    𝙍𝙚𝙖𝙡-𝙩𝙞𝙢𝙚 𝙈𝙤𝙣𝙞𝙩𝙤𝙧𝙞𝙣𝙜: Vision offers real-time monitoring of crucial system parameters, including load average, process quantity, and resource utilization. 
     Administrators can effortlessly track system performance to identify any bottlenecks or abnormalities.
 
-    𝙋𝙧𝙤𝙘𝙚𝙨𝙨 𝘼𝙣𝙖𝙡𝙮𝙨𝙞𝙨 𝙖𝙣𝙙 𝙃𝙞𝙨𝙩𝙤𝙧𝙮: Gain valuable insights into processes with AlertGuard's detailed process analysis and history functionality. 
+    𝙋𝙧𝙤𝙘𝙚𝙨𝙨 𝘼𝙣𝙖𝙡𝙮𝙨𝙞𝙨 𝙖𝙣𝙙 𝙃𝙞𝙨𝙩𝙤𝙧𝙮: Gain valuable insights into processes with Vision detailed process analysis and history functionality. 
     Identify the newest and most frequently occurring processes, pinpoint resource-intensive applications, and uncover potentially dangerous processes with elevated permissions.
 
     𝘾𝙤𝙣𝙛𝙞𝙜𝙪𝙧𝙖𝙗𝙡𝙚 𝘼𝙡𝙖𝙧𝙢 𝙎𝙮𝙨𝙩𝙚𝙢: Customize and configure alarm thresholds based on specific requirements. 
-    AlertGuard allows administrators to set personalized triggers for load average, resource consumption, and process behavior, ensuring prompt notifications and proactive actions.
+    Vision allows administrators to set personalized triggers for load average, resource consumption, and process behavior, ensuring prompt notifications and proactive actions.
 
-    𝙐𝙨𝙚𝙧-𝙁𝙧𝙞𝙚𝙣𝙙𝙡𝙮 𝙄𝙣𝙩𝙚𝙧𝙛𝙖𝙘𝙚: The intuitive user interface of AlertGuard simplifies the monitoring and management process. 
+    𝙐𝙨𝙚𝙧-𝙁𝙧𝙞𝙚𝙣𝙙𝙡𝙮 𝙄𝙣𝙩𝙚𝙧𝙛𝙖𝙘𝙚: The intuitive user interface of Vision simplifies the monitoring and management process. 
     Visualize critical system data, review historical trends, and configure alarm settings with ease, thanks to its clean and intuitive design.
 
-    𝙁𝙡𝙚𝙭𝙞𝙗𝙡𝙚 𝙄𝙣𝙩𝙚𝙜𝙧𝙖𝙩𝙞𝙤𝙣: AlertGuard seamlessly integrates with existing systems, allowing for enhanced collaboration and automation. 
+    𝙁𝙡𝙚𝙭𝙞𝙗𝙡𝙚 𝙄𝙣𝙩𝙚𝙜𝙧𝙖𝙩𝙞𝙤𝙣: Vision seamlessly integrates with existing systems, allowing for enhanced collaboration and automation. 
     Integrate with ticketing systems, notification services, or other automation tools to streamline workflows and facilitate efficient incident management.
 
     𝙀𝙭𝙩𝙚𝙣𝙨𝙞𝙗𝙞𝙡𝙞𝙩𝙮 𝙖𝙣𝙙 𝙁𝙪𝙩𝙪𝙧𝙚 𝙀𝙣𝙝𝙖𝙣𝙘𝙚𝙢𝙚𝙣𝙩𝙨: With a forward-looking approach, AlertGuard is designed to evolve and adapt to future needs. 
