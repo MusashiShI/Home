@@ -6,8 +6,8 @@
 
 I'm José, a passionate systems administrator and programming enthusiast from Portugal 🇵🇹. At 20 years old, I strive to design systems that are efficient, reliable, and scalable. Currently, I’m diving deep into learning web development and Japanese, embracing a lifelong journey of growth and discovery.
 
-- **Fluent Languages**: Portuguese 🇵🇹, with a basic understanding of English 🇺🇸, French 🇫🇷, and Spanish 🇪🇸.
-- **Currently Learning**: Japanese 🇯🇵 and modern web development frameworks.
+- **Fluent Languages**: Portuguese 🇵🇹 (Native), English 🇺🇸 (Fluent), French 🇫🇷 (Basic), and Spanish 🇪🇸 (Basic).
+- **Currently Learning**: Japanese and modern web development frameworks.
 - **Interests**: Automating tasks, exploring quantum programming, and staying updated with cutting-edge technologies.
 
 ## 🔨 What I’m Working On
