@@ -13,7 +13,6 @@ I'm José, a passionate systems administrator and programming enthusiast from Po
 ## 🔨 What I’m Working On
 
 - **System Administration**: Crafting efficient setups for Linux and Windows systems.
-- **Web Development**: Expanding my skills in HTML, CSS, JavaScript, and React.
 - **Open Source Projects**: Contributing to tools that empower the tech community.
 
 ## 🌱 What I’m Learning
@@ -33,10 +32,11 @@ I'm José, a passionate systems administrator and programming enthusiast from Po
 
 ## 🛠️ My Skills
 
-- **Languages**: ShellScript, Python.
+- **Languages**: Python, ShellScript, HTML, CSS, JavaScript, C, C++, YAML.
 - **Tools & Frameworks**: Ansible, Zabbix, Squid Proxy, Mitmproxy, CrowdSec.
-- **System Administration**: Building nearly flawless systems on Linux and Windows platforms.
+- **System Administration**: Building nearly flawless systems on Linux platforms.
 - **Automation**: Streamlining tasks with ShellScript and Python.
+
 
 ## 🌟 Projects & Achievements
 
